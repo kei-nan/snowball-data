@@ -5540,7 +5540,7 @@ hatnan
 ibig
 ilang
 ilanga
-kina
+kain
 kain
 kaba
 kagat
