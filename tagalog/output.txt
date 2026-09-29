@@ -931,9 +931,9 @@ bili
 bili
 binyag
 bitay
-biblia
-bibliya
-bibliya
+blia
+bliya
+bliya
 bicol
 bicolano
 bicolano
@@ -4892,7 +4892,7 @@ ha-mangh
 mangan
 mangay
 mao
-mara
+kamara
 mataya
 matay
 matay
@@ -5039,8 +5039,8 @@ anak
 anib
 pangit
 lawan
-yari
-yari
+kapangyarihan
+kapangyarihan
 ni-paniwala
 ni-paniwal
 sanan
@@ -5078,7 +5078,7 @@ kape
 kapi
 pighati
 pilin
-pilya
+kapilya
 pinsala
 pinsala
 pintas
@@ -5146,8 +5146,8 @@ daniw
 daniw
 dapat
 dapat
-dapat
-dapat
+karapatan
+karapatan
 dapatang-sipi
 dapatdapat
 dami
@@ -5159,7 +5159,7 @@ dayom
 karbon
 kard
 kardo
-dera
+karera
 karga
 dibal
 diktan
@@ -5659,8 +5659,8 @@ klerk
 klik
 klima
 klinik
-klinika
-klinika
+klika
+klika
 kliyente
 kliyente
 ko
@@ -7480,7 +7480,7 @@ tapon
 tapos
 tatag
 tayo
-tatrabaho
+trabaho
 tayo
 tibay
 tiis
@@ -7996,8 +7996,8 @@ muhay
 hali
 natili
 nganak
-yari
-yariha
+kapangyarihan
+kapangyarihan
 niwala
 pasok
 para
@@ -9652,7 +9652,7 @@ isip
 iwan
 limit
 sungali
-tatrabaho
+trabaho
 turo
 udyok
 ugat
@@ -10157,7 +10157,7 @@ unlad
 yaman
 payo
 pilit
-poprotekta
+protekta
 pulo
 punta
 punta
@@ -10322,8 +10322,8 @@ tatwa
 tawan
 taya
 tayo
-tatrabaho
-tatrabaho
+trabaho
+trabaho
 tayo
 tiis
 tindig
@@ -13349,7 +13349,7 @@ tatwa
 tawan
 taya
 tayo
-tatrabaho
+trabaho
 tatuwa
 tawa
 tawag
@@ -13387,7 +13387,7 @@ tiyak
 tiwala
 tiwalag
 tiyak
-totroso
+troso
 trabaho
 trato
 tratrabaho
@@ -14897,8 +14897,8 @@ tago
 talon
 tanggol
 tawan
-tatrabaho
-tatrabaho
+trabaho
+trabaho
 tayo
 tibay
 tibay
@@ -14970,7 +14970,7 @@ hirap
 husay
 husay
 inam
-pangyari
+kapangyarihan
 pangyariha
 lakas
 laki
@@ -15201,7 +15201,7 @@ pitas
 pino
 pondo
 pino
-poprotekta
+protekta
 pinoy
 pinsala
 pinsala
@@ -16612,7 +16612,7 @@ sosyalismo
 sosyalista
 sosyalista
 sosyedad
-sosyo-politikal
+syo-politikal
 sri
 stratehiya
 subali
@@ -17651,7 +17651,7 @@ tribo
 tribu
 trigo
 trilyon
-trinidad
+tridad
 trip
 trono
 tropa
